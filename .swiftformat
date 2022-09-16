@@ -8,3 +8,4 @@
 --wrapcollections before-first 
 --wrapparameters before-first
 --extensionacl on-declarations
+--maxwidth 100
